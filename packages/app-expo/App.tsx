@@ -1,6 +1,7 @@
 import { StatusBar } from 'expo-status-bar'
 import React from 'react'
 import { StyleSheet, Text, View } from 'react-native'
+import { Test } from '@omnirepo/axios-config/src/index'
 
 const App: React.FC = () => {
   return (
